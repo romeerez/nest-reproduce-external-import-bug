@@ -1,0 +1,1 @@
+export const hello = () => "this won't appear in browser"
